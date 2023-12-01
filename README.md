@@ -1,5 +1,6 @@
 # Boggle-Word-Solver
-> A Python Boggle game solver that finds valid words on a 4x4 grid using a custom word database.
+> A Python Boggle game solver that finds valid words on a 4x4 grid using a custom word database. <br><br>
+![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 
 ## Table of Contents
 1. [Introduction](#introduction)
